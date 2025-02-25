@@ -61,3 +61,8 @@ python app.py
 - Python 3.10+
 - MySQL database
 - Together AI API key
+
+## Screenshots
+
+![Screenshot 1](./img/ss1.png)
+![Screenshot 2](./img/ss2.png)
